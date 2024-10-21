@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8bbf4ec5-086c-4b8a-baf9-b85c2c9474f6)﻿# Project Setup
+﻿# Project Setup
 
 ##1. Clone the Repository
 First, clone the repository:
@@ -50,4 +50,4 @@ feel free to create 4 comments for testing
 ![image](https://github.com/user-attachments/assets/f658553a-0a02-477c-8dbf-449e1e7d697a)
 
 ## pytest will launch all tests  
-make sure that you create 1 post 
+![image](https://github.com/user-attachments/assets/8bbf4ec5-086c-4b8a-baf9-b85c2c9474f6)
