@@ -1,4 +1,4 @@
-﻿# Project Setup
+![image](https://github.com/user-attachments/assets/8bbf4ec5-086c-4b8a-baf9-b85c2c9474f6)﻿# Project Setup
 
 ##1. Clone the Repository
 First, clone the repository:
@@ -37,6 +37,11 @@ in auto_reply_delay we put minutes and it stands for auto reply to the comments 
 # Create post (make sure that you use token in headers)
 ![image](https://github.com/user-attachments/assets/6fd35e81-8c1e-422d-ad3d-5dc30efe9018)
 
+## Create post with this example {
+        "title": "Test Post",
+        "content": "This is a test post"
+    }
+
 # Create comment (make sure that you use token in headers)
 ![image](https://github.com/user-attachments/assets/f98da51f-b2a1-4c7c-9b65-139bc4991707)
 feel free to create 4 comments for testing
@@ -44,3 +49,5 @@ feel free to create 4 comments for testing
 # Analytics (http://127.0.0.1:8000/user/comments-daily-breakdown?date_from=2024-10-01&date_to=2024-10-31)
 ![image](https://github.com/user-attachments/assets/f658553a-0a02-477c-8dbf-449e1e7d697a)
 
+## pytest will launch all tests  
+make sure that you create 1 post 
