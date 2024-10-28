@@ -3,7 +3,7 @@
 ##1. Clone the Repository
 First, clone the repository:
 
-git clone git clone <https://github.com/petrukv/User-Actions-With-AI-API.git>  
+git clone <https://github.com/petrukv/User-Actions-With-AI-API.git>  
 cd <project_folder_name>  
 
 ## 2. Create and Activate a Virtual Environment  
